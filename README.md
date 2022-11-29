@@ -1,6 +1,6 @@
 ### Front-End Developer
 
-밥값을 하
+밥값을 하자 
 
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/59inu/)](https://www.linkedin.com/in/59inu/)
