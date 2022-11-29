@@ -1,6 +1,6 @@
 ### Front-End Developer
 
-🌱 좋은 선배 개발자가 될 주니어 개발자
+밥값을 하
 
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/59inu/)](https://www.linkedin.com/in/59inu/)
